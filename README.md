@@ -1,2 +1,8 @@
 # Mi_portafolio_web
-Este repositorio sera para tener archivos de programacion, scripts o cualquiero tipo de documento
+Este repositorio es un conjunto de proyectos incluira las siguientes tecnologias:
+
+- Archivos de Automatizacion
+- Python
+- Java
+- Php
+- Archivos de configuracion de Sistemas Operativos
